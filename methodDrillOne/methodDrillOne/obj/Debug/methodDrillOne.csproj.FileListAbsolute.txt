@@ -1,0 +1,7 @@
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\bin\Debug\methodDrillOne.exe.config
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\bin\Debug\methodDrillOne.exe
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\bin\Debug\methodDrillOne.pdb
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\obj\Debug\methodDrillOne.csprojResolveAssemblyReference.cache
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\obj\Debug\methodDrillOne.csproj.CoreCompileInputs.cache
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\obj\Debug\methodDrillOne.exe
+c:\users\student\source\repos\methodDrillOne\methodDrillOne\obj\Debug\methodDrillOne.pdb
